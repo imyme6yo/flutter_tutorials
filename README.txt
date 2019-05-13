@@ -12,10 +12,34 @@ Notification
     Kakao
     Onesignal
 Ads
-Social Login (Facebook, Twitter, Instagramm, Naver, Kakao)
-Chatting
+    ADMOB
+
+https://proandroiddev.com/add-ads-to-your-app-now-98716d0d6e69
+https://firebase.google.com/docs/flutter/setup?hl=ko
+https://github.com/flutter/plugins/tree/master/packages/firebase_admob
+https://github.com/YoussefKababe/admob_flutter
+https://medium.com/@greg.perry/ads-in-a-snap-flutter-example-4362a2c88c0b
+http://cogitas.net/show-firebase-admob-banner-ad-in-flutter/
+https://steemit.com/utopian-io/@tensor/how-to-monetize-your-flutter-applications-using-admob
+https://pub.dev/packages/admob_flutter
+https://stackoverflow.com/questions/52021282/flutter-admob-appid-use-android-or-ios
+https://stackoverflow.com/questions/53590584/flutter-firebase-admob-do-i-need-this
+https://www.reddit.com/r/FlutterDev/comments/aqgzoz/flutter_admob_banner_ads_integration/
+https://groups.google.com/forum/#!topic/flutter-dev/Vwdj6PGx8l8
+https://stackoverflow.com/questions/tagged/admob
+https://minwook-shin.github.io/flutter-add-firebase-admob/
+http://thetechnocafe.com/a-complete-guide-to-integrating-admob-in-your-android-app/
+
+
+    VINGLE / VUNGLE?
+
+
 IAB
 Paypal, Alipay
+
+Social Login (Facebook, Twitter, Instagramm, Naver, Kakao)
+Chatting
+
 
 https://flutter.dev/docs/get-started/codelab
 https://github.com/raunakhajela/Flutter-Tutorials
